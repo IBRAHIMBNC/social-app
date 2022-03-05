@@ -1,4 +1,4 @@
-# soical_app_pro
+# Social app
 
 A new Flutter project.
 
