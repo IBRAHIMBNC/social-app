@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "878003952622",
+    "firebase_url": "https://socialappforproj-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "socialappforproj",
+    "storage_bucket": "socialappforproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878003952622:android:8b4963dbc457fc64758cff",
+        "android_client_info": {
+          "package_name": "com.ibro.soicalAppPro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878003952622-vt5l45kjmd0hccqs10ft4219sk7jfgvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ibro.soicalAppPro",
+            "certificate_hash": "4dfc2db19a35c098d368a1e667407d1c82caef13"
+          }
+        },
+        {
+          "client_id": "878003952622-6c4dp2i3nh115u2ddli9o61lfq5lld6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC40X6Z7kIeC4XrHDlRzzoEkg7m7qyG1wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878003952622-6c4dp2i3nh115u2ddli9o61lfq5lld6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
